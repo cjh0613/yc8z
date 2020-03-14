@@ -1,0 +1,100 @@
+IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	LINE-HEIGHT: 23px; FONT-FAMILY: Arial; COLOR: #4d4d4d; FONT-SIZE: 14px
+}
+TD {
+	LINE-HEIGHT: 23px; FONT-FAMILY: Arial; COLOR: #4d4d4d; FONT-SIZE: 14px
+}
+TH {
+	LINE-HEIGHT: 23px; FONT-FAMILY: Arial; COLOR: #4d4d4d; FONT-SIZE: 14px
+}
+.title1 {
+	COLOR: #999999
+}
+A:link {
+	COLOR: #4d4d4d; FONT-SIZE: 10pt; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #4d4d4d; FONT-SIZE: 10pt; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #cccccc; FONT-SIZE: 10pt
+}
+A:active {
+	COLOR: #cccccc; FONT-SIZE: 10pt
+}
+A:unknown {
+	COLOR: #4d4d4d; FONT-SIZE: 10pt; TEXT-DECORATION: none
+}
+A:unknown {
+	COLOR: #4d4d4d; FONT-SIZE: 10pt; TEXT-DECORATION: none
+}
+A:unknown {
+	COLOR: #ffffff; FONT-SIZE: 10pt
+}
+A:unknown {
+	COLOR: #ffffff; FONT-SIZE: 10pt
+}
+.margin {
+	MARGIN-TOP: 10px
+}
+#bk1 {
+	BORDER-BOTTOM: #00b700 1px solid; BORDER-LEFT: #00b700 1px solid; BORDER-TOP: #00b700 1px solid; BORDER-RIGHT: #00b700 1px solid
+}
+#bk2 {
+	BORDER-BOTTOM: #a4cda3 1px solid; BORDER-LEFT: #a4cda3 1px solid; BORDER-RIGHT: #a4cda3 1px solid
+}
+#bk {
+	BORDER-BOTTOM: #339900 1px solid; BORDER-LEFT: #339900 1px solid; BORDER-RIGHT: #339900 1px solid
+}
+#bk3 {
+	BORDER-BOTTOM: #0ba140 2px solid; BORDER-TOP: #0ba140 2px solid; BORDER-RIGHT: #0ba140 2px solid
+}
+.leftbtn A {
+	LINE-HEIGHT: 36px; DISPLAY: block; BACKGROUND: url(/web/20160401233448im_/http://yc8z.com/images/bz_256.jpg) no-repeat 50% top; HEIGHT: 36px; FONT-WEIGHT: bold
+}
+.leftbtn A:hover {
+	WIDTH: 204px; DISPLAY: block; BACKGROUND: url(/web/20160401233448im_/http://yc8z.com/images/bz_255.jpg) no-repeat 50% top; HEIGHT: 36px
+}
+.txt_list2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.txt_list2 UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.txt_list2 UL LI {
+	BORDER-BOTTOM: #ccc 1px dashed; LINE-HEIGHT: 23px; LIST-STYLE-TYPE: none; TEXT-INDENT: 1.8em; BACKGROUND: url(/web/20160401233448im_/http://yc8z.com/images/icon2.jpg) no-repeat 0.8em 0.5em; HEIGHT: 23px
+}
+.txt_list2 UL LI A {
+	FLOAT: left
+}
+.txt_list2 UL LI SPAN {
+	FLOAT: right; COLOR: #999
+}
+
+/*
+     FILE ARCHIVED ON 23:34:48 Apr 01, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:38:22 Mar 14, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 137.353 (4)
+  exclusion.robots: 0.198
+  RedisCDXSource: 34.091
+  CDXLines.iter: 14.332 (3)
+  esindex: 0.015
+  captures_list: 122.287
+  PetaboxLoader3.resolve: 53.452
+  LoadShardBlock: 69.785 (3)
+  exclusion.robots.policy: 0.186
+  load_resource: 123.733
+*/
